@@ -18,7 +18,8 @@
 "GlowZ Dock (like in: Glossy Dock) is a dock to launch .exe, .lnk, and even Steam URLs in style on Windows!"
 
 <p align="center">
-  <img src="GlowZ_Dock_Example.png" alt="GlowZ Dock Preview">
+  <img src="GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
+  <img src="GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
 </p>
 
 
@@ -27,12 +28,8 @@
 1. Go to Releases..
 2. Download "GlowZ Dock.zip".
 3. Unpack and copy the content to any folder you like.
+   **⚠️ Note: Some antivirus software (like Windows Defender) may flag the .exe files. This is a common "false positive" for unsigned Python-based executables.**
 4. "GlowZ Dock" and "GlowZ Dock Settings" must be in the same Folder, at all times to work properly!!!
-
-⚠️ Note:
-
- *Some antivirus software (like Windows Defender) may flag the .exe files. This is a common
- "false positive" for unsigned Python-based executables.*
 
 
 ## ✨ Features
