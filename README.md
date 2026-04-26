@@ -50,7 +50,7 @@
 - Transparent Dock and Silky smooth animations
 - Customizability
 - Quick and easy-to-use application
-- Auto Start
+- Windows Auto Start
 - Dock Shadow can be turn on or off
 - RGB-Rainbow Pulse
 - Real Reflections of some Assets
