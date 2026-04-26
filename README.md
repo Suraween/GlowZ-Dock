@@ -95,7 +95,7 @@ Suraween ([suraween@yahoo.de](mailto:suraween@yahoo.de))
 
 ## ⚖️ Copyright
 **GlowZ Dock** is Copyright ©2026 by **Suraween**  
-[Noto+Sans Font](https://fonts.google.com/noto/specimen/Noto+Sans) is Copyright by Google  
+[Space Mono Font](https://fonts.google.com/specimen/Space+Mono) is Copyright by Google  
 
 *All Rights Reserved!*
 
