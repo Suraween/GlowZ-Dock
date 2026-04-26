@@ -14,9 +14,13 @@
              \/            \/     \/                           
 
               - BY SURAWEEN -
+
 ---
-"GlowZ Dock (like in: Glossy Dock) is a dock to launch .exe, .lnk, and even Steam URLs in style on Windows!"
+
+## "GlowZ Dock (like in: Glossy Dock) is a dock to launch .exe, .lnk, and even Steam URLs in style on Windows!"
+
 ---
+
 <p align="center">
       Without RGB-Rainbow Pulse
       <img src="GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
