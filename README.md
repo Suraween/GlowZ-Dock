@@ -55,7 +55,7 @@
 - RGB-Rainbow Pulse
 - Real Reflections of some Assets
 - Realtime Clock, click on it to open Calender (like: Windows-Taskbar)
-- ISO 8601 Datetime (International Standard) (comming soon...)
+- ISO 8601 Datetime (International Standard)
 - Add an Icon via LMB on the +-Icon or Drag&Drop
 - Scans for next free Slot from Left to Right
 - Edit a Slot with an Edit-Menu via RMB
@@ -83,7 +83,7 @@ Suraween ([suraween@yahoo.de](mailto:suraween@yahoo.de))
 
 ## ⚖️ Copyright
 **GlowZ Dock** is Copyright ©2026 by **Suraween**  
-[Orbitron Font](https://fonts.google.com/specimen/Orbitron) is Copyright by Google  
+[Noto+Sans Font](https://fonts.google.com/noto/specimen/Noto+Sans) is Copyright by Google  
 
 *All Rights Reserved!*
 
