@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-      Without RGB-Rainbow Pulse
+      Preview
       <img src="GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
       No Shadow Preview
       <img src="GlowZ_Dock_NoShadow_Preview.png" alt="GlowZ Dock No Shadow Preview">
