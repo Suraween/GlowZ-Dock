@@ -54,7 +54,8 @@
 - Dock Shadow can be turn on or off
 - RGB-Rainbow Pulse
 - Real Reflections of some Assets
-- Realtime Clock, click on it to open Calender (like: Windows-Taskbar)
+- Realtime Clock, LMB on it to open Calender (like: Windows-Taskbar)
+  *Hint: RMB opens Time-systemsetting, MMB opens Outlook*
 - ISO 8601 Datetime (International Standard)
 - Add an Icon via LMB on the +-Icon or Drag&Drop
 - Scans for next free Slot from Left to Right
