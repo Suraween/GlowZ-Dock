@@ -43,7 +43,7 @@
 
 ## ✨ Features
 - A dock that can import the .exe, .lnk and url for Steam and related Icons to run it
-- From 1 to 20 Slots available, dynamic UI width - always centered
+- From 1 to 20 Slots available, dynamic UI width - always centered (Default Numbers of Slots: 10)
 - Is always on top of the Taskbar, autodetects taskbar position and visibility
 - Modern Design in a 3D Graphic rendered with Blender
 - Some handmade 2D Graphics
@@ -59,8 +59,18 @@
 - Add an Icon via LMB on the +-Icon or Drag&Drop
 - Scans for next free Slot from Left to Right
 - Edit a Slot with an Edit-Menu via RMB
-   *Attention: Labels are limited to 10 alphanumeric characters (including spaces).*
+  
+   **You can change the App/Game and their Icon in Slots, remove them or rename the Labels**
+  
+   **Attention: Labels are limited to 10 alphanumeric characters (including spaces).**
 - Swap 2 Icons with the MMB also with some nice Animations
+- External Settings App for changing the Numbers of Slots, Offset from the bottom of the Sceen,
+  Windows Auto Start, Start RGB-Rainbow Pulse or Dock-Shadow.
+  
+  **You can run the Settings by clicking on the very 1st Icon from the left with LMB,**
+  **or open the About-Popup via RMB**
+  
+  *(I will design a new version later; the current settings app is only rudimentary.)*
 - System-style popups for confirmations and notifications.
 
 
@@ -100,5 +110,8 @@ The author is not responsible for any damage to your system, data loss, or issue
 
 
 ## 🗨️ Last Words
-I would like to sincerely thank all my friends for their support, the fun, and the challenges!!!
-Thank YOU for downloading my "GlowZ Dock", i hope you liking it!!!
+I would like to sincerely thank all my Friends for their Love, Support, the Fun, and the Challenges! I Love you all! <3
+
+**Thank YOU for downloading my "GlowZ Dock"!**
+
+*i hope you liking it!*
