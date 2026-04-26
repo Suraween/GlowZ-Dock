@@ -64,8 +64,9 @@
 
 
 ## 🛠 Created with
-* 🧊 **Blender** (3D Models & Rendering)
+* 🧊 **Blender** (3D Models, Rendering, Icon)
 * 🎨 **Paint.NET** (2D Assets & Post-Processing)
+* 🖌️ **Greenfish Icon Editor Pro** (Icon editing)
 * 💻 **VS Code** (Programming, readme.md)
 * 🌐 **Chrome** (Research & Documentation)
 
