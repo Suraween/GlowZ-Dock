@@ -22,6 +22,8 @@
   <img src="GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
       With RGB-Rainbow Pulse
   <img src="GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
+        With RGB-Rainbow Pulse
+  <img src="GlowZ_Dock_NoShadow_Preview.png" alt="GlowZ Dock No Shadow Preview">
      
 </p>
 
