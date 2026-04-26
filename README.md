@@ -55,7 +55,7 @@
 - RGB-Rainbow Pulse
 - Real Reflections of some Assets
 - Realtime Clock, click on it to open Calender (like: Windows-Taskbar)
-- ISO 8601 Datetime (International Standard)
+- ISO 8601 Datetime (International Standard) (comming soon...)
 - Add an Icon via LMB on the +-Icon or Drag&Drop
 - Scans for next free Slot from Left to Right
 - Edit a Slot with an Edit-Menu via RMB
