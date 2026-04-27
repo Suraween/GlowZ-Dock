@@ -22,14 +22,15 @@
 ---
 
 <p align="center">
-      Preview
-      <img src="GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
-      Shadow Preview
-      <img src="GlowZ_Dock_Shadow_Preview.png" alt="GlowZ Dock Shadow Preview">
-      RGB-Rainbow Pulse Preview
-      <img src="GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
-      GlowZ Dock Settings
-      <img src=GlowZ_Dock_Settings_preview.png alt="GlowZ Dock Settings">
+Preview
+<img src="GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
+Shadow Preview
+<img src="GlowZ_Dock_Shadow_Preview.png" alt="GlowZ Dock Shadow Preview">
+RGB-Rainbow Pulse Preview
+<img src="GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
+      
+GlowZ Dock Settings
+<img src=GlowZ_Dock_Settings_preview.png alt="GlowZ Dock Settings">
 </p>
 
 
