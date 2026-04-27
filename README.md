@@ -22,16 +22,24 @@
 ---
 
 <p align="center">
-      Preview
+      Preview<br>
       <img src="GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
-      Shadow Preview
+      Shadow Preview<br>
       <img src="GlowZ_Dock_Shadow_Preview.png" alt="GlowZ Dock Shadow Preview">
-      RGB-Rainbow Pulse Preview
+      RGB-Rainbow Pulse Preview<br>
       <img src="GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
-      GlowZ Dock Settings
-      <img src="GlowZ_Dock_Settings_preview.png" alt="GlowZ Dock Settings">
 </p>
+<br>
 
+ ---
+ 
+<br>
+<p align="center"> 
+      GlowZ Dock Settings<br>
+      <img src="GlowZ_Dock_Settings_preview.png" alt="GlowZ Dock Settings">
+</p align="center">
+
+<br>
 
 ## 📥 Installation
 
