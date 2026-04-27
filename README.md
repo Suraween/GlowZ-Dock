@@ -53,11 +53,12 @@
 - Windows Auto Start
 - Dock Shadow can be turn on or off
 - RGB-Rainbow Pulse
-- Real Reflections of some Assets
+- Real Reflections of Ikons, Clock & Calender
 - Realtime Clock, LMB on it to open Calender (like: Windows-Taskbar)
-  
-  *Hint: RMB opens Time-systemsetting, MMB opens Outlook*
-- ISO 8601 Datetime (International Standard)
+- Adjustable Colors for Clock and Calender
+- Blinking Dot (Disabled by Default)
+  *Hint: RMB opens Time System Setting, MMB opens Outlook*
+- Datetime: ISO 8601 (International Standard), EU & US
 - Add an Icon via LMB on the +-Icon or Drag&Drop
 - Scans for next free Slot from Left to Right
 - Edit a Slot with an Edit-Menu via RMB
