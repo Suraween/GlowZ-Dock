@@ -44,7 +44,13 @@
       <img src="GlowZ_Dock_Settings_preview3.png" alt="GlowZ Dock Settings 3">
       <img src="GlowZ_Dock_Settings_preview4.png" alt="GlowZ Dock Settings 4">
 </p align="center">
+
 <br>
+
+---
+
+<br>
+
 ## 📥 Installation
 
 1. Go to Releases..
