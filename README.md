@@ -35,10 +35,10 @@
 <p align="center"> 
       GlowZ Dock Settings
       <br>
-      <img src="GlowZ_Dock_Settings_preview1.png1" alt="GlowZ Dock Settings 1">
-      <img src="GlowZ_Dock_Settings_preview1.png2" alt="GlowZ Dock Settings 2">
-      <img src="GlowZ_Dock_Settings_preview1.png3" alt="GlowZ Dock Settings 3">
-      <img src="GlowZ_Dock_Settings_preview1.png4" alt="GlowZ Dock Settings 4">
+      <img src="GlowZ_Dock_Settings_preview1.png" alt="GlowZ Dock Settings 1">
+      <img src="GlowZ_Dock_Settings_preview2.png" alt="GlowZ Dock Settings 2">
+      <img src="GlowZ_Dock_Settings_preview3.png" alt="GlowZ Dock Settings 3">
+      <img src="GlowZ_Dock_Settings_preview4.png" alt="GlowZ Dock Settings 4">
 </p align="center">
 <br>
 ## 📥 Installation
