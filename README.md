@@ -30,17 +30,17 @@
       <img src="GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
 </p>
 <br>
-
  ---
- 
 <br>
 <p align="center"> 
-      GlowZ Dock Settings<br>
-      <img src="GlowZ_Dock_Settings_preview.png" alt="GlowZ Dock Settings">
+      GlowZ Dock Settings
+      <br>
+      <img src="GlowZ_Dock_Settings_preview1.png1" alt="GlowZ Dock Settings 1">
+      <img src="GlowZ_Dock_Settings_preview1.png2" alt="GlowZ Dock Settings 2">
+      <img src="GlowZ_Dock_Settings_preview1.png3" alt="GlowZ Dock Settings 3">
+      <img src="GlowZ_Dock_Settings_preview1.png4" alt="GlowZ Dock Settings 4">
 </p align="center">
-
 <br>
-
 ## 📥 Installation
 
 1. Go to Releases..
@@ -54,11 +54,12 @@
 ## ✨ Features
 - A dock that can import the .exe, .lnk and url for Steam and related Icons to run it
 - From 1 to 20 Slots available, dynamic UI width - always centered (Default Numbers of Slots: 10)
-- Is always on top of the Taskbar, autodetects taskbar position and visibility
+- Is always on top of the Taskbar, autodetects taskbar position and visibility, with a -50, 0 or 50 pixel offset (via Slider)
 - Modern Design in a 3D Graphic rendered with Blender
 - Some handmade 2D Graphics
 - Transparent Dock and Silky smooth animations
-- Customizability
+- Customization for some, like Colors of Time, Marked Label/Icons and the Dock itself.
+*Dock via Color Picker and other with a Dropdown-Menu with a variety of prepared Colors*
 - Quick and easy-to-use application
 - Windows Auto Start
 - Dock Shadow can be turn on or off
@@ -83,7 +84,6 @@
   **You can run the Settings by clicking on the very 1st Icon from the left with LMB,**
   **or open the About-Popup via RMB**
   
-  *(I will design a new version later; the current settings app is only rudimentary.)*
 - System-style popups for confirmations and notifications.
 
 
@@ -96,11 +96,12 @@
 
 
 ## ✏️ Coded in:
-   Python and Kivy (UI Framework) - PyInstaller for compiling to .exe-file
+   Python and Kivy (UI Framework)
+
 
 ## 👤 Who made it & Contact
 **Idea, Code, UI, Design, 2D/3D Graphics, Icon and this File:**  
-Suraween ([suraween.official@gmail.com](mailto:suraween.official@gmail.com))
+Suraween ([suraween@yahoo.de](mailto:suraween@yahoo.de))
 
 
 ## ⚖️ Copyright
