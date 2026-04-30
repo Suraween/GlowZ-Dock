@@ -24,40 +24,6 @@
 <p align="center">
       Preview<br>
       <img src="GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
-      Shadow Preview<br>
-      <img src="GlowZ_Dock_Shadow_Preview.png" alt="GlowZ Dock Shadow Preview">
-      RGB-Rainbow Pulse Preview<br>
-      <img src="GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
-      Edit Menu Preview<br>
-      <img src="GlowZ_Dock_EditMenu_Preview.png" alt="GlowZ Dock Edit Menu Example">
-      Swapping Preview<br>
-      <img src="GlowZ_Dock_Swapping_Preview.png" alt="GlowZ Dock Swapping Example">
-      ## 🚀 [GlowZ Dock]
-
-      ___________                 __________      
-     /  _____/|  |   ______  _  __\____    / 
-    /   \  ___|  |  /  _ \ \/ \/ /  /     /     
-    \    \_\  \  |_(  <_> )     /  /     /_     
-     \______  /____/\____/ \/\_/  /_______ \    
-            \/                            \/   
-      _______                 __                               
-      \_____ \   ____   ____ |  | __                           
-      |     \ \ /  _ \_/ ___\|  |/ /                            
-      |_____/  (  <_> )  \___|    <                             
-      /______  /\____/ \___  >__|_ \                            
-             \/            \/     \/                           
-
-              - BY SURAWEEN -
-
----
-
-## "GlowZ Dock (like in: Glossy Dock) is a dock to launch .exe, .lnk, and even Steam URLs in style on Windows!"
-
----
-
-<p align="center">
-      Preview<br>
-      <img src="GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
       No Calender Preview<br>
       <img src="GlowZ_Dock_NoCalendar_Preview.png" alt="GlowZ Dock No Calender Example">
       No Clock Preview<br>
