@@ -29,11 +29,13 @@
       RGB-Rainbow Pulse Preview<br>
       <img src="GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
 </p>
+
 <br>
 
- ---
+---
  
 <br>
+
 <p align="center"> 
       GlowZ Dock Settings
       <br>
