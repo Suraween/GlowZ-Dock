@@ -49,6 +49,7 @@
       <br>
       <img src="/images/GlowZ_Dock_Settings_preview1.png" alt="GlowZ Dock Settings 1">
       <img src="/images/GlowZ_Dock_Settings_preview2.png" alt="GlowZ Dock Settings 2">
+      <img src="/images/GlowZ_Dock_Settings_colorpicker_preview" alt="GlowZ Dock Settings Color Picker">
       <img src="/images/GlowZ_Dock_Settings_preview3.png" alt="GlowZ Dock Settings 3">
       <img src="/images/GlowZ_Dock_Settings_preview4.png" alt="GlowZ Dock Settings 4">
 </p align="center">
