@@ -23,19 +23,19 @@
 
 <p align="center">
       Preview<br>
-      <img src="GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
+      <img src="/images/GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
       No Calender Preview<br>
-      <img src="GlowZ_Dock_NoCalendar_Preview.png" alt="GlowZ Dock No Calender Example">
+      <img src="/images/GlowZ_Dock_NoCalendar_Preview.png" alt="GlowZ Dock No Calender Example">
       No Clock Preview<br>
-      <img src="GlowZ_Dock_NoClock_Preview.png" alt="GlowZ Dock No Clock Example">
+      <img src="/images/GlowZ_Dock_NoClock_Preview.png" alt="GlowZ Dock No Clock Example">
       Shadow Preview<br>
-      <img src="GlowZ_Dock_Shadow_Preview.png" alt="GlowZ Dock Shadow Preview">
+      <img src="/images/GlowZ_Dock_Shadow_Preview.png" alt="GlowZ Dock Shadow Preview">
       RGB-Rainbow Pulse Preview<br>
-      <img src="GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
+      <img src="/images/GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
       Edit Menu Preview<br>
-      <img src="GlowZ_Dock_EditMenu_Preview.png" alt="GlowZ Dock Edit Menu Example">
+      <img src="/images/GlowZ_Dock_EditMenu_Preview.png" alt="GlowZ Dock Edit Menu Example">
       Swapping Preview<br>
-      <img src="GlowZ_Dock_Swapping_Preview.png" alt="GlowZ Dock Swapping Example">
+      <img src="/images/GlowZ_Dock_Swapping_Preview.png" alt="GlowZ Dock Swapping Example">
 </p>
 
 <br>
@@ -47,10 +47,10 @@
 <p align="center"> 
       GlowZ Dock Settings
       <br>
-      <img src="GlowZ_Dock_Settings_preview1.png" alt="GlowZ Dock Settings 1">
-      <img src="GlowZ_Dock_Settings_preview2.png" alt="GlowZ Dock Settings 2">
-      <img src="GlowZ_Dock_Settings_preview3.png" alt="GlowZ Dock Settings 3">
-      <img src="GlowZ_Dock_Settings_preview4.png" alt="GlowZ Dock Settings 4">
+      <img src="/images/GlowZ_Dock_Settings_preview1.png" alt="GlowZ Dock Settings 1">
+      <img src="/images/GlowZ_Dock_Settings_preview2.png" alt="GlowZ Dock Settings 2">
+      <img src="/images/GlowZ_Dock_Settings_preview3.png" alt="GlowZ Dock Settings 3">
+      <img src="/images/GlowZ_Dock_Settings_preview4.png" alt="GlowZ Dock Settings 4">
 </p align="center">
 
 <br>
