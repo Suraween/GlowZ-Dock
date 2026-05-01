@@ -116,6 +116,7 @@
 
 ## ✏️ Coded in:
    Python and Kivy (UI Framework)
+   PyInstaller was used to compile .py files into .exe files.
 
 
 ## 👤 Who made it & Contact
