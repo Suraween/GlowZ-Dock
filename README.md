@@ -88,7 +88,7 @@
 - Adjustable Colors for Clock and Calender
 - Blinking Dot (Disabled by Default)
   *Hint: RMB opens Time System Setting, MMB opens Outlook*
-- Datetime: ISO 8601 (International Standard), EU & US
+- Datetime: ISO 8601 (International Standard), EU & US (Also via Tooltip with Weekday)
 - Add an Icon via LMB on the +-Icon or Drag&Drop
 - Scans for next free Slot from Left to Right
 - Edit a Slot with an Edit-Menu via RMB
