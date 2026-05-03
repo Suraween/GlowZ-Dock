@@ -36,6 +36,8 @@
       <img src="./images/GlowZ_Dock_EditMenu_Preview.png" alt="GlowZ Dock Edit Menu Example">
       Swapping Preview<br>
       <img src="./images/GlowZ_Dock_Swapping_Preview.png" alt="GlowZ Dock Swapping Example">
+      Task-Menu Preview<br>
+      <img src="./images/GlowZ_Dock_Taskmenu_Preview.png" alt="GlowZ Dock Taskmenu Example">
 </p>
 
 <br>
