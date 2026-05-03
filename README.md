@@ -102,7 +102,7 @@
   
   **You can run the Settings by clicking on the very 1st Icon from the left with LMB,**
   **or open the About-Popup via RMB**
-  
+- Task-Menu with Mouse Scrolling-Wheel to open (closing after 5 seconds)
 - System-style popups for confirmations and notifications.
 
 
