@@ -63,7 +63,6 @@
 <br>
 
 ## 📥 Installation
-
 1. Go to Releases..
 2. Download "GlowZ Dock.zip".
 3. Unpack and copy the content to any folder you like.
@@ -75,11 +74,11 @@
 ## ✨ Features
 - A dock that can import the .exe, .lnk and url for Steam and related Icons to run it
 - From 1 to 20 Slots available, dynamic UI width - always centered (Default Numbers of Slots: 10)
-- Is always on top of the Taskbar, autodetects taskbar position and visibility, with a -50, 0 or 50 pixel offset (via Slider)
-- Modern Design in a 3D Graphic rendered with Blender
+- Is always on top of the Taskbar, autodetects taskbar position and visibility, with  0 or 50 pixel offset (via Slider)
+- Modern Design in a 3D Graphic handcrafted and rendered with Blender
 - Some handmade 2D Graphics
 - Transparent Dock and Silky smooth animations
-- Customization for some, like Colors of Time, Marked Label/Icons and the Dock itself.
+- Customization for  Colors of Time/Date , Marked Label/Icons and the Dock itself.
 *Dock via Color Picker and other with a Dropdown-Menu with a variety of prepared Colors*
 - Quick and easy-to-use application
 - Windows Auto Start
@@ -104,7 +103,7 @@
   
   **You can run the Settings by clicking on the very 1st Icon from the left with LMB,**
   **or open the About-Popup via RMB**
-- Task-Menu with Mouse Scrolling-Wheel to open (closing after 5 seconds)
+- Task-Menu with Mouse Scrolling-Wheel to open (closing after 5 seconds), while Dock is active
 - System-style popups for confirmations and notifications.
 
 
