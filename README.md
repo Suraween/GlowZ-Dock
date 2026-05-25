@@ -17,7 +17,7 @@
 
 ---
 
-## "GlowZ Dock (like in: Glossy Dock) is a dock to launch .exe, .lnk, and even Steam URLs in style on Windows!"
+## "GlowZ Dock (like in: Glossy Dock) is a dock to launch .exe, .lnk, and even Steam URLs in style on Windows 10/11!"
 
 ---
 
@@ -68,7 +68,7 @@
 3. Unpack and copy the content to any folder you like.
    
    **⚠️ Note: Some antivirus software (like Windows Defender) may flag the .exe files. This is a common "false positive" for unsigned Python-based executables.**
-5. "GlowZ Dock" and "GlowZ Dock Settings", also the folders "fonts" & "gfx" must be in the same Folder, at all times to work properly!!!
+5. "GlowZ Dock" and "GlowZ Dock Settings", also the folders "fonts", "gfx" & "sfx" must be in the same Folder, at all times to work properly!!!
 
 
 ## ✨ Features
@@ -87,7 +87,7 @@
 - Real Reflections of Icons, Clock & Calender
 - Realtime Clock, LMB on it to open Calender (like: Windows-Taskbar)
 - Adjustable Colors for Clock and Calender
-- Alarm Clock with customizable Soundfile (Supported Format: MP3, OGG & WAV)
+- Alarm Clock with minimizing Frontmost Fullscreen App/Game and customizable Soundfile (Supported Formats: MP3, OGG & WAV)
 - Blinking Dot (Disabled by Default)
   *Hint: RMB opens Time System Setting, MMB opens Outlook*
 - Datetime: ISO 8601 (International Standard), EU & US (Also via Tooltip with Weekday)
@@ -105,7 +105,7 @@
   **You can run the Settings by clicking on the very 1st Icon from the left with LMB,**
   **or open the About-Popup via RMB**
 - Task-Menu with Mouse Scrolling-Wheel to open (closing after 5 seconds), while Dock is active
-- System-style popups for confirmations and notifications.
+- System-style popups for sassy and funny confirmations and notifications.
 
 
 ## 🛠 Created with
