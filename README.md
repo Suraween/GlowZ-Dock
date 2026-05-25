@@ -53,6 +53,7 @@
       <img src="./images/GlowZ_Dock_Settings_preview2.png" alt="GlowZ Dock Settings 2">
       <img src="./images/GlowZ_Dock_Settings_colorpicker_preview.png" alt="GlowZ Dock Settings Color Picker">
       <img src="./images/GlowZ_Dock_Settings_preview3.png" alt="GlowZ Dock Settings 3">
+      <img src="./images/GlowZ_Dock_Settings_alarmsettings_preview.png" alt="GlowZ Dock Alarm Settings">
       <img src="./images/GlowZ_Dock_Settings_preview4.png" alt="GlowZ Dock Settings 4">
 </p align="center">
 
@@ -111,6 +112,7 @@
 ## 🛠 Created with
 * 🧊 **Blender** (3D Models, Rendering, Icon)
 * 🎨 **Paint.NET** (2D Assets & Post-Processing)
+* 🎹 **Magix Musicmaker 17 Pro** (Composing Alarm-Sound)
 * 🖌️ **Greenfish Icon Editor Pro** (Icon editing)
 * 💻 **VS Code** (Programming, Documentation)
 * 🌐 **Chrome** (Research)
@@ -123,14 +125,15 @@
 
 
 ## 👤 Who made it & Contact
-**Idea, Code, UI, Design, 2D/3D Graphics, Icon and this File:**  
+**Idea, Code, UI, Design, 2D/3D Graphics, Icon, Sfx and this File:**  
 Suraween ([suraween.official@gmail.com](mailto:suraween.official@gmail.com))
 
 
 ## ⚖️ Copyright
-**GlowZ Dock** is Copyright ©2026 by **Suraween**  
+**GlowZ Dock and all its assets** is Copyright ©2026 by **Suraween**
+<br>
 [Space Mono Font](https://fonts.google.com/specimen/Space+Mono) is Copyright by Google  
-
+<br>
 *All Rights Reserved!*
 
 
@@ -147,7 +150,7 @@ The author is not responsible for any damage to your system, data loss, or issue
 
 ## 🗨️ Last Words
 I would like to sincerely thank all my Friends for their Love, Support, the Fun, and the Challenges! I Love you all! <3
-
-**Thank YOU for downloading my "GlowZ Dock"!**
-
-*i hope you liking it!*
+<br>
+**Thank YOU for downloading and using my "GlowZ Dock"!**
+<br>
+*I hope you liking it!*
