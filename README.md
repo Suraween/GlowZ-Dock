@@ -84,9 +84,10 @@
 - Windows Auto Start
 - Dock Shadow can be turn on or off
 - RGB-Rainbow Pulse
-- Real Reflections of Ikons, Clock & Calender
+- Real Reflections of Icons, Clock & Calender
 - Realtime Clock, LMB on it to open Calender (like: Windows-Taskbar)
 - Adjustable Colors for Clock and Calender
+- Alarm Clock with customizable Soundfile (Supported Formats: MP3, OGG, WAV)
 - Blinking Dot (Disabled by Default)
   *Hint: RMB opens Time System Setting, MMB opens Outlook*
 - Datetime: ISO 8601 (International Standard), EU & US (Also via Tooltip with Weekday)
