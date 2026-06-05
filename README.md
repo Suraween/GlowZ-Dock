@@ -94,12 +94,12 @@
 - Datetime: ISO 8601 (International Standard), EU & US (Also via Tooltip with Weekday)
 - Add an Icon via LMB on the +-Icon or Drag&Drop
 - Scans for next free Slot from Left to Right
-- Edit a Slot with an Edit-Menu via RMB
+- Edit a Slot with an Edit-Menu via Shift + Right Mousebutton
   
    **You can change the App/Game and their Icon in Slots, remove them or rename the Labels**
   
    **Attention: Labels are limited to 10 alphanumeric characters (including spaces).**
-- Swap 2 Icons with the MMB also with some nice Animations
+- Swap 2 Icons with the Ctrl + Right Mousebutton or Middle Mousebutton
 - External Settings App for changing the Numbers of Slots, Offset from the bottom of the Sceen,
   Windows Auto Start, Start RGB-Rainbow Pulse or Dock-Shadow.
   
