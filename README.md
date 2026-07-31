@@ -65,11 +65,11 @@
 
 ## 📥 Installation
 1. Go to Releases..
-2. Download "GlowZ Dock.zip".
+2. Download "GlowZ Dock.zip" on latest Release and for update Information read the Description there!
 3. Unpack and copy the content to any folder you like.
    
    **⚠️ Note: Some antivirus software (like Windows Defender) may flag the .exe files. This is a common "false positive" for unsigned Python-based executables.**
-5. "GlowZ Dock" and "GlowZ Dock Settings", also the folders "fonts", "gfx" & "sfx" must be in the same Folder, at all times to work properly!!!
+4. "GlowZ Dock" and "GlowZ Dock Settings", also the folders "fonts", "gfx" & "sfx" must be in the same Folder, at all times to work properly!!!
 
 
 ## ✨ Features
