@@ -115,7 +115,7 @@ Hold your modifier keys and hover over the **Settings Icon** to trigger native, 
 *   **Hold Ctrl + Hover:** 🔴 **Shutdown**.
 *   **Hold Shift + Hover:** 🟠 **Reboot** your PC.
 *   **Hold Alt + Hover:** 🟢 **Logout** from your current Windows session.
-*   All with a Ask-Confirmation that prevents unintended use.
+*   **All with a Ask-Confirmation that prevents unintended use.**
    
     **Attention: Will work only while the Dock is active (click on the shelf)**
 
