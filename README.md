@@ -24,8 +24,14 @@
 <p align="center">
       Preview<br>
       <img src="./images/GlowZ_Dock_Preview.png" alt="GlowZ Dock Preview">
-      No Calender Preview<br>
-      <img src="./images/GlowZ_Dock_NoCalendar_Preview.png" alt="GlowZ Dock No Calender Example">
+      Shutdown<br>
+      <img src="./images/GlowZ_Dock_Shutdown_Preview.png" alt="GlowZ Dock Shutdown Preview">
+      Reboot<br>
+      <img src="./images/GlowZ_Dock_Reboot_Preview.png" alt="GlowZ Dock Reboot Preview">
+      Logout<br>
+      <img src="./images/GlowZ_Dock_Logout_Preview.png" alt="GlowZ Dock Logout Preview">
+      No Calendar Preview<br>
+      <img src="./images/GlowZ_Dock_NoCalendar_Preview.png" alt="GlowZ Dock No Calendar Example">
       No Clock Preview<br>
       <img src="./images/GlowZ_Dock_NoClock_Preview.png" alt="GlowZ Dock No Clock Example">
       Shadow Preview<br>
