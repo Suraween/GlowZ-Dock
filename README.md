@@ -31,7 +31,7 @@
       Shadow Preview<br>
       <img src="./images/GlowZ_Dock_Shadow_Preview.png" alt="GlowZ Dock Shadow Preview">
       RGB-Rainbow Pulse Preview<br>
-      <img src="./images/GlowZ_Dock_Example.png" alt="GlowZ Dock Example">
+      <img src="./imagesGlowZ-Dock_RGB-Pulse.gif" alt="GlowZ Dock Example">
       Edit Menu Preview<br>
       <img src="./images/GlowZ_Dock_EditMenu_Preview.png" alt="GlowZ Dock Edit Menu Example">
       Swapping Preview<br>
