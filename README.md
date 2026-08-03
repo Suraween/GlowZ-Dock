@@ -110,6 +110,9 @@
 
 ## 🚀 What's New in Version 1.1.0 (Power Management & Wobble Update)
 
+### ⚠️ No multiple start
+* "GlowZ Dock.exe" and "GlowZ Dock Settings.exe" can't start multiple times now
+
 ### 🔋 Hidden Power Management Hub
 Hold your modifier keys and hover over the **Settings Icon** to trigger native, secure Windows API actions:
 *   **Hold Ctrl + Hover:** 🔴 **Shutdown**.
@@ -167,4 +170,4 @@ I would like to sincerely thank all my Friends for their Love, Support, the Fun,
 <br>
 **Thank YOU for downloading and using my "GlowZ Dock"!**
 <br>
-*I hope you liking it!*
+*I hope you liking it ;)*
