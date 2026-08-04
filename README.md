@@ -73,9 +73,33 @@
 1. Go to Releases..
 2. Download "GlowZ Dock.zip" on latest Release and for update Information read the Description there!
 3. Unpack and copy the content to any folder you like.
-   
-   **⚠️ Note: Some antivirus software (like Windows Defender) may flag the .exe files. This is a common "false positive" for unsigned Python-based executables.**
 4. "GlowZ Dock" and "GlowZ Dock Settings", also the folders "fonts", "gfx" & "sfx" must be in the same Folder, at all times to work properly!!!
+
+## ⚠️ Important Note Regarding Antivirus Alerts (False Positives)
+
+**Why is my antivirus (e.g., Avast, Windows Defender) triggering a warning?**
+This application is compiled using **Nuitka** (instead of PyInstaller). Nuitka translates the Python/Kivy source code directly into highly optimized, native C-code. This ensures maximum execution speed and a significantly smaller file size. 
+
+Because the code is deeply optimized and packaged, antivirus scanners often flag it as a "False Positive" simply because the file is brand new and unrecognized by their global databases. 
+
+**Security & Integrity Guaranteed:**
+* The source code is 100% clean, safe, and developed strictly under White-Hat principles.
+* If your antivirus blocks the application, you can safely add the `.exe` or its installation directory to your antivirus exclusion/whitelist.
+
+**Live Scan & Verification:**
+* You can view the live, transparent multi-engine scan report here:
+  <br>
+  [View VirusTotal Scan Report for GlowZ Dock](HIER_DEINEN_VIRUSTOTAL_LINK_EINFÜGEN)
+  <br>
+  [View VirusTotal Scan Report for GlowZ Dock Settings](HIER_DEINEN_VIRUSTOTAL_LINK_EINFÜGEN)
+* To ensure the file hasn't been modified, you can verify its SHA-256 checksum below.
+
+### Release SHA-256 Checksums:
+ **GlowZ Dock:** `F6588125E6BEC9154A10C674222163D9B0248DD46A9D1F8B15050F47FB868119`
+ <br>
+ **GlowZ Dock Settings:** `1609D25FB4F47FECAE8D3118EFB062B13B71C8ED06A0523B5A2AF4810D854A7A`
+
+*You can verify these hashes locally using `Get-FileHash` in PowerShell to ensure your download is untampered and authentic.*
 
 
 ## ✨ Features
@@ -144,7 +168,7 @@ Hovering over icons is now 100% more satisfying and "fancy"!
 ## ✏️ Coded in:
    Python and Kivy (UI Framework)
    <br>
-   PyInstaller was used to compile .py files into .exe files.
+   Nuitka (instead of PyInstaller) was used to compile .py files into .exe files.
 
 
 ## 👤 Who made it & Contact
