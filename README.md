@@ -91,7 +91,7 @@ Because the code is deeply optimized and packaged, antivirus scanners often flag
   <br>
   [View VirusTotal Scan Report for GlowZ Dock](https://www.virustotal.com/gui/file/f6588125e6bec9154a10c674222163d9b0248dd46a9d1f8b15050f47fb868119?nocache=1)
   <br>
-  [View VirusTotal Scan Report for GlowZ Dock Settings](HIER_DEINEN_VIRUSTOTAL_LINK_EINFÜGEN)
+  [View VirusTotal Scan Report for GlowZ Dock Settings](https://www.virustotal.com/gui/file/1609d25fb4f47fecae8d3118efb062b13b71c8ed06a0523b5a2af4810d854a7a?nocache=1)
 * To ensure the file hasn't been modified, you can verify its SHA-256 checksum below.
 
 ### Release SHA-256 Checksums:
