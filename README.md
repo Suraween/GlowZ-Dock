@@ -89,7 +89,7 @@ Because the code is deeply optimized and packaged, antivirus scanners often flag
 **Live Scan & Verification:**
 * You can view the live, transparent multi-engine scan report here:
   <br>
-  [View VirusTotal Scan Report for GlowZ Dock](HIER_DEINEN_VIRUSTOTAL_LINK_EINFÜGEN)
+  [View VirusTotal Scan Report for GlowZ Dock](https://www.virustotal.com/gui/file/f6588125e6bec9154a10c674222163d9b0248dd46a9d1f8b15050f47fb868119?nocache=1)
   <br>
   [View VirusTotal Scan Report for GlowZ Dock Settings](HIER_DEINEN_VIRUSTOTAL_LINK_EINFÜGEN)
 * To ensure the file hasn't been modified, you can verify its SHA-256 checksum below.
