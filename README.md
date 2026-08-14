@@ -85,22 +85,7 @@ Because the code is deeply optimized and packaged, antivirus scanners often flag
 **Security & Integrity Guaranteed:**
 * The source code is 100% clean, safe, and developed strictly under White-Hat principles.
 * If your antivirus blocks the application, you can safely add the `.exe` or its installation directory to your antivirus exclusion/whitelist.
-
-**Live Scan & Verification:**
-* You can view the live, transparent multi-engine scan report here:
-  <br>
-  [View VirusTotal Scan Report for GlowZ Dock](https://www.virustotal.com/gui/file/cbef299a44fd291882251739ec83430e0e2b3b38639589693c024e8a853866bb?nocache=1)
-  <br>
-  [View VirusTotal Scan Report for GlowZ Dock Settings](https://www.virustotal.com/gui/file/1609d25fb4f47fecae8d3118efb062b13b71c8ed06a0523b5a2af4810d854a7a?nocache=1)
-* To ensure the file hasn't been modified, you can verify its SHA-256 checksum below.
-
-### Release SHA-256 Checksums:
- **GlowZ Dock:** `CBEF299A44FD291882251739EC83430E0E2B3B38639589693C024E8A853866BB`
- <br>
- **GlowZ Dock Settings:** `1609D25FB4F47FECAE8D3118EFB062B13B71C8ED06A0523B5A2AF4810D854A7A`
-
-*You can verify these hashes locally using `Get-FileHash` in PowerShell to ensure your download is untampered and authentic.*
-
+* Verification in the readme of the releases with VirusTotal-Links and SHA-256 Checksums
 
 ## ✨ Features
 - A dock that can import the .exe, .lnk and url for Steam and related Icons to run it
