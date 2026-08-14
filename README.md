@@ -123,23 +123,6 @@ Because the code is deeply optimized and packaged, antivirus scanners often flag
 - Task-Menu with Mouse Scrolling-Wheel to open (closing after 5 seconds), while Dock is active
 - System-style popups for sassy and funny confirmations and notifications.
 
-## 🚀 What's New in Version 1.1.0 (Power Management & Wobble Update)
-
-### ⚠️ No multiple start
-* "GlowZ Dock.exe" and "GlowZ Dock Settings.exe" can't start multiple times now
-
-### 🔋 Hidden Power Management Hub
-Hold your modifier keys and hover over the **Settings Icon** to trigger native, secure Windows API actions:
-*   **Hold Ctrl + Hover:** 🔴 **Shutdown**.
-*   **Hold Shift + Hover:** 🟠 **Reboot** your PC.
-*   **Hold Alt + Hover:** 🟢 **Logout** from your current Windows session.
-*   **All with a Ask-Confirmation that prevents unintended use.**
-   
-    **Attention: Will work only while the Dock is active (click on the shelf)**
-
-### 🕺 The Total Wobble Chaos (Stochastic UI Physics)
-Hovering over icons is now 100% more satisfying and "fancy"!
-*   **Dynamic Chaos:** Icons randomly decide whether to swing left or right first.
 
 ## 🛠 Created with
 * 🧊 **Blender** (3D Models, Rendering, Icon)
