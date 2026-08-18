@@ -82,7 +82,8 @@
 2. Exit "GlowZ Dock"-App
 3. Delete the folder "GlowZ-Dock"
 4. Delete the folder ".dock_cache" in your user folder
-5. Delete the folder "your-user-folder\AppData\Roaming\GlowZ-Dock"
+5. Delete the "GlowZ-Dock" folder located in `your-user-folder\AppData\Roaming\`.
+
 
 ***Installer app coming soon!***
 
