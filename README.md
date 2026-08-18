@@ -74,6 +74,7 @@
 2. Download "GlowZ Dock.zip" on latest Release and for update Information read the Description there!
 3. Unpack and copy the content to any folder you like.
 4. "GlowZ Dock" and "GlowZ Dock Settings", also the folders "fonts", "gfx" & "sfx" must be in the same Folder, at all times to work properly!!!
+***Important: Regardless of your desktop resolution, ensure that the DPI is set exactly to 100%!!!***
 
 ## ⚠️ Important Note Regarding Antivirus Alerts (False Positives)
 
