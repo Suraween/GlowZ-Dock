@@ -78,6 +78,7 @@
 ## ⚠️ Important Note Regarding Antivirus Alerts (False Positives)
 
 **Why is my antivirus (e.g., Avast, Windows Defender) triggering a warning?**
+
 This application is compiled using **Nuitka** (instead of PyInstaller). Nuitka translates the Python/Kivy source code directly into highly optimized, native C-code. This ensures maximum execution speed and a significantly smaller file size. 
 
 Because the code is deeply optimized and packaged, antivirus scanners often flag it as a "False Positive" simply because the file is brand new and unrecognized by their global databases. 
@@ -122,6 +123,8 @@ Because the code is deeply optimized and packaged, antivirus scanners often flag
   **or open the About-Popup via RMB**
 - Task-Menu with Mouse Scrolling-Wheel to open (closing after 5 seconds), while Dock is active
 - System-style popups for sassy and funny confirmations and notifications.
+
+***For new Features or Changes check out the Release Change-Log***
 
 
 ## 🛠 Created with
