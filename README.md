@@ -102,40 +102,30 @@ Because the code is deeply optimized and packaged, antivirus scanners often flag
 * Verification in the readme of the releases with VirusTotal-Links and SHA-256 Checksums
 
 ## ✨ Features
-- A dock that can import the .exe, .lnk and url for Steam and related Icons to run it
-- From 1 to 20 Slots available, dynamic UI width - always centered (Default Numbers of Slots: 10)
-- Is always on top of the Taskbar, autodetects taskbar position and visibility, with  0 or 50 pixel offset (via Slider)
-- Modern Design in a 3D Graphic handcrafted and rendered with Blender
-- Some handmade 2D Graphics
-- Transparent Dock and Silky smooth animations
-- Customization for  Colors of Time/Date , Marked Label/Icons and the Dock itself.
-*Dock via Color Picker and other with a Dropdown-Menu with a variety of prepared Colors*
-- Quick and easy-to-use application
-- Windows Auto Start
-- Dock Shadow can be turn on or off
-- RGB-Rainbow Pulse
-- Real Reflections of Icons, Clock & Calender
-- Realtime Clock, LMB on it to open Calender (like: Windows-Taskbar)
-- Adjustable Colors for Clock and Calender
-- Alarm Clock with minimizing Frontmost Fullscreen App/Game and customizable Soundfile (Supported Formats: MP3, OGG & WAV)
-- Blinking Dot (Disabled by Default)
-  *Hint: RMB opens Time System Setting, MMB opens Outlook*
-- Datetime: ISO 8601 (International Standard), EU & US (Also via Tooltip with Weekday)
-- Add an Icon via LMB on the +-Icon or Drag&Drop
-- Scans for next free Slot from Left to Right
-- Edit a Slot with an Edit-Menu via Shift + Right Mousebutton
-  
-   **You can change the App/Game and their Icon in Slots, remove them or rename the Labels**
-  
-   **Attention: Labels are limited to 10 alphanumeric characters (including spaces).**
-- Swap 2 Icons with the Ctrl + Right Mousebutton or Middle Mousebutton
-- External Settings App for changing the Numbers of Slots, Offset from the bottom of the Sceen,
-  Windows Auto Start, Start RGB-Rainbow Pulse or Dock-Shadow.
-  
-  **You can run the Settings by clicking on the very 1st Icon from the left with LMB,**
-  **or open the About-Popup via RMB**
-- Task-Menu with Mouse Scrolling-Wheel to open (closing after 5 seconds), while Dock is active
-- System-style popups for sassy and funny confirmations and notifications.
+
+- **App Launcher:** Imports `.exe`, `.lnk`, and Steam URLs including their respective icons.
+- **Dynamic UI:** Customizable from 1 to 20 slots; automatically centered on screen (Default: 10).
+- **Smart Taskbar Integration:** Stays on top of the taskbar, autodetects its position/visibility, and features an adjustable offset (0 or 50 pixels via slider).
+- **Premium Aesthetics:** High-quality 3D graphics rendered in Blender, combined with transparent elements and silky-smooth animations.
+- **Deep Customization:** Fully adjustable colors for the time/date, active labels/icons, and the dock itself (via built-in Color Picker).
+- **System Features:**
+  - Windows Auto Start support.
+  - Toggleable dock shadow and eye-catching RGB-Rainbow Pulse effect.
+- **Time & Calendar:**
+  - Real-time clock with realistic reflections.
+  - Left-click (LMB) opens the calendar (styled like the Windows taskbar).
+  - Built-in Alarm Clock that automatically minimizes fullscreen apps/games, featuring customizable audio (`.mp3`, `.ogg`, `.wav`).
+  - Supports ISO 8601, EU, and US datetime formats (includes tooltips with weekdays).
+  - Optional blinking separator dot (Disabled by default).
+- **Easy Management:**
+  - Add icons quickly via drag-and-drop or by left-clicking the `+` icon.
+  - Automatically scans for the next free slot from left to right.
+  - **Edit Menu (Shift + RMB):** Change apps, games, icons, or rename labels *(Note: Labels are limited to 10 alphanumeric characters)*.
+  - **Swap Slots (Ctrl + RMB or MMB):** Easily swap positions of two icons.
+- **Advanced Control:**
+  - **External Settings App:** Change slot count, screen offset, autostart, and visual effects easily.
+  - **Quick Task-Menu:** Open instantly using the mouse scroll wheel while the dock is active (closes automatically after 5 seconds).
+  - Custom system-style popups for interactive notifications and confirmations.
 
 ***For new Features or Changes check out the Release Change-Log***
 
