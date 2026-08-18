@@ -90,16 +90,15 @@
 
 ## ⚠️ Important Note Regarding Antivirus Alerts (False Positives)
 
-**Why is my antivirus (e.g., Avast, Windows Defender) triggering a warning?**
+**Why is my antivirus (e.g., Windows Defender, Avast) triggering a warning?**
 
-This application is compiled using **Nuitka** (instead of PyInstaller). Nuitka translates the Python/Kivy source code directly into highly optimized, native C-code. This ensures maximum execution speed and a significantly smaller file size. 
-
-Because the code is deeply optimized and packaged, antivirus scanners often flag it as a "False Positive" simply because the file is brand new and unrecognized by their global databases. 
+Because this application uses **Nuitka** to compile Python into native C-code, it may trigger false positives in antivirus software due to its structure, especially if the binary is unrecognized.
 
 **Security & Integrity Guaranteed:**
-* The source code is 100% clean, safe, and developed strictly under White-Hat principles.
-* If your antivirus blocks the application, you can safely add the `.exe` or its installation directory to your antivirus exclusion/whitelist.
-* Verification in the readme of the releases with VirusTotal-Links and SHA-256 Checksums
+- **100% Clean:** The code is safe and developed with White-Hat principles.
+- **Safe to Whitelist:** You can safely add the `.exe` to your antivirus exclusions.
+- **Full Transparency:** Verified VirusTotal links and SHA-256 checksums are provided in the release notes for confirmation.
+
 
 ## ✨ Features
 
