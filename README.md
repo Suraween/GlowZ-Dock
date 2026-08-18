@@ -77,14 +77,14 @@
 
 ***Important: Regardless of your desktop resolution, ensure that the DPI is set exactly to 100%!!!***
 
-## 🗑️ Uninstallation
-1. Open "GlowZ Dock Settings"-App and uncheck Autostart and save it
+## 🗑️ Uninstall
+1. Open the "GlowZ Dock Settings" app, uncheck "Autostart", and save.
 2. Exit "GlowZ Dock"-App
 3. Delete the folder "GlowZ-Dock"
 4. Delete the folder ".dock_cache" in your user folder
 5. Delete the folder "your-user-folder\AppData\Roaming\GlowZ-Dock"
 
-***Installation-App coming soon!***
+***Installer app coming soon!***
 
 ## ⚠️ Important Note Regarding Antivirus Alerts (False Positives)
 
