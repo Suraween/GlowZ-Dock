@@ -139,9 +139,9 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
 
 
 ## ✏️ Coded in:
-   Python and Kivy (UI Framework)
-   <br>
-   Nuitka (instead of PyInstaller) was used to compile .py files into .exe files.
+- **Language:** Python
+- **UI Framework:** Kivy
+- **Compiler:** Nuitka (used to compile `.py` files into native `.exe` files instead of PyInstaller)
 
 
 ## 👤 Who made it & Contact
