@@ -70,20 +70,21 @@
 <br>
 
 ## 📥 Installation
-1. Go to Releases..
-2. Download "GlowZ Dock.zip" on latest Release and for update Information read the Description there!
-3. Unpack and copy the content to any folder you like.
-4. "GlowZ Dock" and "GlowZ Dock Settings", also the folders "fonts", "gfx" & "sfx" must be in the same Folder, at all times to work properly!!!
 
-***Important: Regardless of your desktop resolution, ensure that the DPI is set exactly to 100%!!!***
+1. Go to the **Releases** section.
+2. Download `GlowZ Dock.zip` from the latest release.
+3. Extract the ZIP file and copy the contents to a folder.
+4. Ensure `GlowZ Dock.exe`, `GlowZ Dock Settings.exe`, and the `fonts`, `gfx`, & `sfx` folders stay together.
 
-## 🗑️ Uninstall
-1. Open the "GlowZ Dock Settings" app, uncheck "Autostart", then save it.
-2. Exit "GlowZ Dock"-App
-3. Delete the folder "GlowZ-Dock"
-4. Delete the folder ".dock_cache" in your user folder
-5. Delete the "GlowZ-Dock" folder located in `your-user-folder\AppData\Roaming\`.
+***Important: Set system DPI scaling to 100%!***
 
+## 🗑 Uninstall
+
+1. Open "GlowZ Dock Settings", uncheck "Autostart", and save.
+2. Exit "GlowZ Dock".
+3. Delete the "GlowZ-Dock" folder.
+4. Delete the `.dock_cache` folder in your user directory.
+5. Delete the "GlowZ-Dock" folder in `AppData\Roaming`.
 
 ***Installer app coming soon!***
 
