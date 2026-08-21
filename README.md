@@ -124,7 +124,7 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
 - **Advanced Control:**
   - **External Settings App:** Change slot count, screen offset, autostart, and visual effects easily.
   - **Quick Task-Menu:** Open instantly using the mouse scroll wheel while the dock is active (closes automatically after 5 seconds).
-  - Custom system-style popups for interactive notifications and confirmations.
+- **System-style popups** for notifications and confirmations.
 
 ***For new Features or Changes check out the Release Change-Log***
 
