@@ -128,7 +128,7 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
   - **Quick Task-Menu:** Open instantly using the mouse scroll wheel while the dock is active (closes automatically after 5 seconds).
 - **System-style popups** for notifications and confirmations.
 
-***For new Features or Changes check out the Release Change-Log***
+***For new Features or Changes check out the Release Change-Logs***
 
 
 ## 🛠 Created with
