@@ -74,7 +74,7 @@
 1. Go to the **Releases** section.
 2. Download `GlowZ Dock.zip` from the latest release.
 3. Extract the ZIP file and copy the contents to a folder.
-4. Ensure `GlowZ Dock.exe`, `GlowZ Dock Settings.exe`, and the `fonts`, `gfx`, & `sfx` folders stay together.
+4. Ensure `GlowZ Dock.exe`, `GlowZ Dock Settings.exe`, and the `fonts` & `sfx` folders stay together.
 
 ***Important: Set system DPI scaling to 100%!***
 
