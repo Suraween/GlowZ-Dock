@@ -117,11 +117,11 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
   - Supports ISO 8601, EU, and US datetime formats (includes tooltips with weekdays).
   - Optional blinking separator dot (Disabled by default).
 - **Easy Management:**
-  - Add icons quickly via drag-and-drop or by left-clicking the `+` button.
-  - Delete icon by left-clicking the `-` button.
-  - Closing Edit-Mode by left-clicking the `x` button.
-  - Automatically scans for the next free slot from left to right.
-  - **Edit Menu (Shift + RMB):** Change apps, games, icons, or rename labels *(Note: Labels are limited to 10 alphanumeric characters)*.
+  - Automatically scans for the next free slot from left to right. 
+  - **Edit Menu (Shift + RMB):** Change icons, or rename labels *(Note: Labels are limited to 10 alphanumeric characters)*. 
+     - Add icons quickly via drag-and-drop or by left-clicking the `+` button.
+     - Delete icon by left-clicking the `-` button.
+     - Closing Edit-Mode by left-clicking the `x` button.
   - **Swap Slots (Ctrl + RMB or MMB):** Easily swap positions of two icons.
 - **Advanced Control:**
   - **External Settings App:** Change slot count, screen offset, autostart, and visual effects easily.
