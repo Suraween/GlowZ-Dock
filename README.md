@@ -118,7 +118,7 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
   - Optional blinking separator dot (Disabled by default).
 - **Easy Management:**
   - Automatically scans for the next free slot from left to right. 
-  - **Edit Menu (Shift + RMB):** Change icons, or rename labels *(Note: Labels are limited to 10 alphanumeric characters)*. 
+  - **Edit Menu (Shift + RMB):** Change icons, or rename labels *(Note: Labels are limited to 10 alphanumeric characters with Spaces)*. 
      - Add icons quickly via drag-and-drop or by left-clicking the `+` button.
      - Delete icon by left-clicking the `-` button.
      - Closing Edit-Menu by left-clicking the `x` button.
