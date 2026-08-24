@@ -88,19 +88,28 @@
 4. Hit the Install
 5. Done
 
-**ATTENTION:**
-*Turn off your AntiVirus temporarily for the Installation and turn it back on after installation, for preventing issues!*
-*Ensure `GlowZ Dock.exe`, `GlowZ Dock Settings.exe`, and the `fonts` & `sfx` folders stay together*
-***Important: Set system DPI scaling to 100%!***
+**ATTENTION:**<br>
+*Turn off your AntiVirus temporarily for the Installation and turn it back on after installation, for preventing issues!*<br>
+*Ensure `GlowZ Dock.exe`, `GlowZ Dock Settings.exe`, and the `fonts` & `sfx` folders stay together!*<br>
+***Important: Set system DPI scaling to 100%!***<br>
 
+<br>
 
-## 🗑 Manaual Uninstall
+## 🗑 Uninstall
 
+**Manual:**
 1. Open "GlowZ Dock Settings", uncheck "Autostart", and save.
 2. Exit "GlowZ Dock".
 3. Delete the "GlowZ-Dock" folder.
 4. Delete the `.dock_cache` folder in your user directory.
 5. Delete the "GlowZ-Dock" folder in `AppData\Roaming`.
+
+**Windows:**
+* **Standard Way:** Open the Windows **Settings** (`Win + I`) and go to **Apps** ➔ **Installed apps** (or **Apps & features** on Windows 10).
+* **Power-User Way:** Press `Win + R`, type `appwiz.cpl` and hit Enter to open **Programs and Features**.
+* **Action:** Search for **GlowZ Dock** in the list and click **Uninstall**.
+
+<br>
 
 ## ⚠️ Important Note Regarding Antivirus Alerts (False Positives)
 
@@ -113,9 +122,9 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
 - **Safe to Whitelist:** You can safely add the `.exe` to your antivirus exclusions.
 - **Full Transparency:** Verified VirusTotal links and SHA-256 checksums are provided in the release notes for confirmation.
 
+<br>
 
 ## ✨ Features
-
 - **App Launcher:** Imports `.exe`, `.lnk`, and Steam URLs including their respective icons.
 - **Dynamic UI:** Customizable from 1 to 20 slots; automatically centered on screen (Default: 10).
 - **Smart Taskbar Integration:** Stays on top of the taskbar, autodetects its position/visibility, and features an adjustable offset (0 or 50 pixels via slider).
@@ -144,6 +153,7 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
 
 ***For new Features or Changes check out the Release Change-Logs***
 
+<br>
 
 ## 🛠 Created with
 * 🧊 **Blender** (3D Models, Rendering, Icon)
@@ -151,9 +161,11 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
 * 🎹 **Magix Musicmaker 17 Pro** (Composing Alarm-Sound)
 * 🖌️ **Greenfish Icon Editor Pro** (Icon editing)
 * 💻 **VS Code** (Programming, Documentation)
-* 🧠 **Google A.I.** (Co-Piloting)
+* 💾 **Inno Setup** (Writing & compiling Setup.exe)
+* 🧠 **Google A.I.** (Co-Piloting and writing Installation Script)
 * 🌐 **Chrome** (Research)
 
+<br>
 
 ## ✏️ Coded in:
 - **Language:** Python
@@ -161,11 +173,16 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
 - **Co-Pilot:** Google A.I.
 - **Compiler:** Nuitka (used to compile `.py` files into native `.exe` files instead of PyInstaller)
 
+<br>
 
 ## 👤 Who made it & Contact
 **Idea, Code, UI, Design, 2D/3D Graphics, Icon, Sfx and this File:**  
 Suraween ([suraween.official@gmail.com](mailto:suraween.official@gmail.com))
+<br>
+**Installation Script:**
+Google A.I.
 
+<br>
 
 ## ⚖️ Copyright
 **GlowZ Dock and all its assets** is Copyright ©2026 by **Suraween**
@@ -174,6 +191,7 @@ Suraween ([suraween.official@gmail.com](mailto:suraween.official@gmail.com))
 <br>
 *All Rights Reserved!*
 
+<br>
 
 ## ⚠️ Disclaimer
 90% of the code of **GlowZ Dock** and **GlowZ Dock Settings** is done by me (Suraween), the other 10% were Co-Piloted by Google A.I.,
@@ -182,12 +200,14 @@ all Graphics, Alarm-Sound, UI-Design and Features implemented were also done by 
 This software is provided "as is", without warranty of any kind.
 The author is not responsible for any damage to your system, data loss, or issues caused by the use of this application. Use it at your own risk.
 
+<br>
 
 ## 🕊️ Dedication
 - **In memory of my beloved Mother** (passed away in 2016). Thank you for everything.
 - **In memory of Ozzy Osbourne** (1948 - 2025). Thank you for the music, the Metal, and for inspiring me to pick up a guitar at age 3. You defined my attitude.
 - **In memory of Jay Miner** (1932 - 1994). For the Amiga and the inspiration to be a coder, musician, and graphic artist. Once a Scener, always a Scener.
 
+<br>
 
 ## 🗨️ Last Words
 I would like to sincerely thank all my Friends for their Love, Support, the Fun, and the Challenges! I Love you all! <3
