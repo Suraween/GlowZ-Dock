@@ -74,22 +74,33 @@
 
 ## 📥 Installation
 
+**Download:**
 1. Go to the **Releases** section.
-2. Download `GlowZ Dock.zip` from the latest release.
-3. Extract the ZIP file and copy the contents to a folder.
-4. Ensure `GlowZ Dock.exe`, `GlowZ Dock Settings.exe`, and the `fonts` & `sfx` folders stay together.
+2. Download `GlowZ Dock.zip` or `GlowZ_Dock_Setup.exe` from the latest release.
 
+***Manual Install:***
+- Extract the ZIP file and copy the contents to any folder you want to.
+
+***Setup App:***
+1. Start it
+2. Select your directory or keep the Default -> Hit Next
+3. Check on for Create Desktop -> Hit Next
+4. Hit the Install
+5. Done
+
+**ATTENTION:**
+*Turn off your AntiVirus temporarily for the Installation and turn it back on after installation, for preventing issues!*
+*Ensure `GlowZ Dock.exe`, `GlowZ Dock Settings.exe`, and the `fonts` & `sfx` folders stay together*
 ***Important: Set system DPI scaling to 100%!***
 
-## 🗑 Uninstall
+
+## 🗑 Manaual Uninstall
 
 1. Open "GlowZ Dock Settings", uncheck "Autostart", and save.
 2. Exit "GlowZ Dock".
 3. Delete the "GlowZ-Dock" folder.
 4. Delete the `.dock_cache` folder in your user directory.
 5. Delete the "GlowZ-Dock" folder in `AppData\Roaming`.
-
-***Installer app coming soon!***
 
 ## ⚠️ Important Note Regarding Antivirus Alerts (False Positives)
 
