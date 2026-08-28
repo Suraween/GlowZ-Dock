@@ -159,7 +159,7 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
 * 🧊 **Blender** (3D Models, Rendering, Icon)
 * 🎨 **Paint.NET** (2D Assets & Post-Processing)
 * 🎹 **Magix Musicmaker 17 Pro** (Composing Alarm-Sound)
-* 🖌️ **Greenfish Icon Editor Pro** (Icon editing)
+* 🖌️ **Greenfish Icon Editor Pro** (Icons editing)
 * 💻 **VS Code** (Programming, Documentation)
 * 💾 **Inno Setup** (Writing & compiling Setup.exe)
 * 🧠 **Google A.I.** (Co-Piloting and writing Installation Script)
@@ -176,7 +176,7 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
 <br>
 
 ## 👤 Who made it & Contact
-**Idea, Code, UI, Design, 2D/3D Graphics, Icon, Sfx & Documentation:**  
+**Idea, Code, UI, Design, 2D/3D Graphics, Icons, Sfx & Documentation:**  
 Suraween
 <br>
 
