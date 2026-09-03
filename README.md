@@ -2,11 +2,9 @@
 
  <img src="./images/GlowZ-Dock_Logo.png" alt="GlowZ Dock Logo">
  
-##
-
 ### "GlowZ Dock (like in: Glossy Dock) is a dock to launch .exe, .lnk, and even Steam URLs in style on Windows 10/11!"
 
-<br>
+##
 
 <p align="center">
       Preview<br>
