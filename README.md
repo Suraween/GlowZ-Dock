@@ -158,7 +158,11 @@ Because this application uses **Nuitka** to compile Python into native C-code, i
 <br>
 
 ## 👤 Who made it & Contact
-**Idea, Code, UI, Design, 2D/3D Graphics, Icons, Sfx & Documentation:**  
+**Idea, Code, UI, Design, 2D/3D Graphics, Icons, Sfx:**  
+Suraween
+<br>
+
+**Documentation:**<br>
 Suraween
 <br>
 
