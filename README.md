@@ -1,4 +1,4 @@
-## 🚀 [GlowZ Dock]
+## 🚀 [GlowZ-Dock]
 
  <img src="./images/GlowZ-Dock_Logo.png" alt="GlowZ Dock Logo">
  
